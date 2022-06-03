@@ -1,0 +1,1 @@
+web: gunicorn blog_from_cheatsheet.wsgi
