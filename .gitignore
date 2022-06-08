@@ -8,3 +8,13 @@ node_modules/
 .github/
 cloudinary_python.txt
 db.sqlite3
+templates/account/*/
+templates/openid/
+templates/socialaccount/
+templates/tests/
+templates/account/password*
+templates/account/email*
+templates/account/veri*
+templates/account/account*
+templates/account/base*
+templates/account/signup_*
